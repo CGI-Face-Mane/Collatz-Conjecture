@@ -8,4 +8,4 @@ while x>1:
 		x=2*x+1
 		list_c.append(x)
 print(list_c)
-k=input("wait" )
+print(list_c.len())
